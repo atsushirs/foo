@@ -1,3 +1,4 @@
 # foo
 ## Header
 foo
+bar
